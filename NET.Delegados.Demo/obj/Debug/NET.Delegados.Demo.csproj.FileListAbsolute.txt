@@ -1,0 +1,7 @@
+D:\Practicas\NET\NET.Delegados\NET.Delegados.Demo\bin\Debug\NET.Delegados.Demo.exe.config
+D:\Practicas\NET\NET.Delegados\NET.Delegados.Demo\bin\Debug\NET.Delegados.Demo.exe
+D:\Practicas\NET\NET.Delegados\NET.Delegados.Demo\bin\Debug\NET.Delegados.Demo.pdb
+D:\Practicas\NET\NET.Delegados\NET.Delegados.Demo\obj\Debug\NET.Delegados.Demo.csprojAssemblyReference.cache
+D:\Practicas\NET\NET.Delegados\NET.Delegados.Demo\obj\Debug\NET.Delegados.Demo.csproj.CoreCompileInputs.cache
+D:\Practicas\NET\NET.Delegados\NET.Delegados.Demo\obj\Debug\NET.Delegados.Demo.exe
+D:\Practicas\NET\NET.Delegados\NET.Delegados.Demo\obj\Debug\NET.Delegados.Demo.pdb
